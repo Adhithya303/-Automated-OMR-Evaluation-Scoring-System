@@ -1,3 +1,5 @@
+!pip install opencv-python pandas numpy
+
 import os
 import sys
 import cv2
